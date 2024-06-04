@@ -1,0 +1,10 @@
+front_end/node_modules/
+front_end/.env
+*trips.json
+*trips_updated.json
+.DS_Store
+*.ipynb_checkpoints*
+*logs/
+
+
+
